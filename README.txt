@@ -2,7 +2,7 @@ REPLICATION DATA AND CODE
 BEYOND UPLANDS: INTEGRATING RIPARIAN AREAS INTO SAGEBRUSH CONSERVATION DESIGN
 ================================================================================
 
-COORESPONDING AUTHOR:     Kristopher R. Mueller,
+CORRESPONDING AUTHOR:     Kristopher R. Mueller,
 CONTACT:                  kristopher.mueller@mso.umt.edu
 YEAR:                     2025
 MANUSCRIPT STATUS:        Preprint
